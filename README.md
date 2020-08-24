@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá Devs, sejam bem vindos ao meu perfil do Github 👋
+
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web
 
 <!--
 **mgckaled/mgckaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
