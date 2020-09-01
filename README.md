@@ -1,6 +1,6 @@
 ### Olá Devs, sejam bem vindos ao meu perfil do Github 👋
 
-![](https://komarev.com/ghpvc/?username=mgckaled&color=brightgreen&style=flat)
+![](https://visitor-badge.glitch.me/badge?page_id=mgckaled.mgckaled)
 
 ## Tecnologias e Ferramentas 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
