@@ -20,6 +20,11 @@ Apart from coding, I also maintain a mini blog on instagram - you can find my po
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=955E42)
 
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
+
+
 
 
 
