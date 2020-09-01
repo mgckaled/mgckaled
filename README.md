@@ -1,7 +1,8 @@
 ### Olá <code>Devs</code>, sejam bem vindos ao meu perfil do Github 👋
-<p align="center">
-<img src = https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelgckaled@gmail.com)](mailto:marcelgckaled@gmail.com/)>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcel-gaudard-cheik-kaled/)](https://www.linkedin.com/in/marcel-gaudard-cheik-kaled/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelgckaled@gmail.com)](mailto:marcelgckaled@gmial.com/)
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mgckaled.mgckaled)
