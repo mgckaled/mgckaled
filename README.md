@@ -17,9 +17,8 @@
 
 
 <p align="center">
-  [![mgckaled's github stats](https://github-readme-stats.vercel.app/api?username=mgckaled)](https://github.com/mgckaled/github-readme-stats)
-</p>
-
+  <img src ="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true">
+ </p>
 
 
 <!--
