@@ -2,12 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=mgckaled&color=brightgreen&style=flat)
 
-<!-- ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=appveyor:image/svg%2bxml;base64,<BASE64_DATA>) -->
-
-## Blog
-
-Apart from coding, I also maintain a mini blog on instagram - you can find my posts at ...
-
 ## Tecnologias e Ferramentas 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
@@ -23,14 +17,6 @@ Apart from coding, I also maintain a mini blog on instagram - you can find my po
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
-
-
-
-
-
-
-
-
 
 
 
