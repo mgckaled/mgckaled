@@ -2,6 +2,14 @@
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web
 
+### Blog
+---
+Apart from coding, I also maintain a mini blog on instagram - you can find my posts at ...
+
+### Techologies & Tools 
+--- 
+
+
 <!--
 **mgckaled/mgckaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
