@@ -1,6 +1,6 @@
 ### Olá Devs, sejam bem vindos ao meu perfil do Github 👋
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web
+![](https://komarev.com/ghpvc/?username=mgckaled&color=brightgreen&style=flat)
 
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=appveyor:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
