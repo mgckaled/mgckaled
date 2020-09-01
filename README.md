@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  ![mgckaled's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  [![mgckaled's github stats](https://github-readme-stats.vercel.app/api?username=mgckaled)](https://github.com/mgckaled/github-readme-stats)
 </p>
 
 
