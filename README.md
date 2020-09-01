@@ -2,8 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web
 
-### Blog
----
+#### Blog
 Apart from coding, I also maintain a mini blog on instagram - you can find my posts at ...
 
 ### Techologies & Tools 
