@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+  ![mgckaled's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 </p>
 
 
