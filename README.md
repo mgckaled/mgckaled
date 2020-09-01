@@ -1,6 +1,6 @@
 ### Olá <code>Devs</code>, sejam bem vindos ao meu perfil do Github 👋
 <p align="center">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelgckaled@gmail.com)](mailto:marcelgckaled@gmail.com/)
+<img src = https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelgckaled@gmail.com)](mailto:marcelgckaled@gmail.com/)>
 </p>
 
 
