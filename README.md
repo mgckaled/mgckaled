@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Tools-ReactNative-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=955E42)
 
 --- 
-Confira meu perfil **sourcerer** [aqui](https://sourcerer.io/mgckaled).
+Confira meu perfil **sourcerer** [aqui](https://sourcerer.io/mgckaled). <br>
 See my **sourcerer** profile [here](https://sourcerer.io/mgckaled).
 
 <p align="center">
