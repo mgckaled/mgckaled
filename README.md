@@ -1,6 +1,6 @@
 ### Olá <code>Devs</code>, sejam bem vindos ao meu perfil do Github 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=mgckaled.mgckaled)
+![](https://visitor-badge.glitch.me/badge?page_id=mgckaled.mgckaled) <br>
 Confira meu perfil **sourcerer** [aqui](https://sourcerer.io/mgckaled). <br>
 See my **sourcerer** profile [here](https://sourcerer.io/mgckaled).
 
