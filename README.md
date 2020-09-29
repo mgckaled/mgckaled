@@ -25,8 +25,6 @@
 Confira meu perfil **sourcerer** [aqui](https://sourcerer.io/mgckaled). <br>
 See my **sourcerer** profile [here](https://sourcerer.io/mgckaled).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgckaled&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&count_private=true&theme=vue&hide_border=true&include_all_commits=true">
  </p>
