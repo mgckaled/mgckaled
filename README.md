@@ -14,7 +14,10 @@ See my **sourcerer** profile [here](https://sourcerer.io/mgckaled).
  </p>
  
 <p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mgckaled&langs_count=10&layout=compact&hide=jupyter notebook">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mgckaled&langs_count=10&layout=compact">
  </p>
+ 
+ hide=jupyter notebook
+ 
  
  
