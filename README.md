@@ -7,13 +7,13 @@
 <p> </p>
 
 
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&count_private=true&theme=vue&hide_border=true&include_all_commits=true">
- </p>
- 
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mgckaled&langs_count=10&layout=compact&hide=jupyter notebook">
- </p>
+<a href="https://github.com/mgckaled?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgckaled&theme=omni" />
+</a>
+
+<a href="https://github.com/mgckaled">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgckaled&show_icons=true&theme=omni" />
+</a>
  
  
  
